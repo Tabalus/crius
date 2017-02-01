@@ -9,5 +9,5 @@ I try it first and understand how to use it .
 Then,
 create gitlab and use .
 
-I hope good lookit
+I hope good luck!
 
