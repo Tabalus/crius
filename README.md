@@ -1,13 +1,21 @@
-# hello-world
-It is sample project for tourist of git
+全国行政区划代码
+================
+项目代号：Crius
 
-Hi everyone!
+提供全国行政区化代码的CSV文件，开源项目
 
-It is a test for use git , and i will admin my project with git
-Now,
-I try it first and understand how to use it .
-Then,
-create gitlab and use .
+请使用windows 的 office excel 打开编辑
 
-I hope good luck!
+包括以下几个内容：
 
++ 内容介绍
++ 使用方式
++ 如何贡献
++ 项目周期
+
+
+
+
+--------
+内容介绍
+--------
