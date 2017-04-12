@@ -61,10 +61,12 @@ CSV文本放置在:./resource/~
 
 项目周期
 --------
-长期项目，数据来源于国家统计局：http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/
+长期项目：数据来源于国家统计局：http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/
 数据完全一致生成CSV文件
+
 目前版本：2015
-最后时间：20170329
+
+最后更新：20170329
 
 一元资助
 --------
