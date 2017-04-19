@@ -63,7 +63,8 @@ CSV文本放置在:./resource/~
 项目周期
 --------
 长期项目：数据来源于国家统计局：http://www.stats.gov.cn/tjsj/tjbz/xzqhdm/
-数据完全一致生成的CSV文件
+数据完全一致生成的CSV文件,
+精确度100%
 
 国家统计局版本：2015
 
